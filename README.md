@@ -1,6 +1,10 @@
 # OmarObaidi_ePortolio
 
-## 🎥 Code Review Video
-▶️ [Watch Code Review Video on Google Drive](https://drive.google.com/file/d/1gPffHO0Hp5P0YkUqeS_vsaE30XgG8fkE/view?usp=drive_link)
+Final CS 499 ePortfolio Submission – Omar Obaidi
+My final ePortfolio is hosted on GitHub Pages and includes all required deliverables:
+• Professional Self-Assessment
+• Artifact Narratives (Software Design & Engineering, Algorithms & Data Structures, Databases)
+• Code Review Video (hosted on Google Drive for playback)
 
-*(Hosted securely on Google Drive for full-quality playback.)*
+GitHub Pages Link: https://aobaidi92.github.io/OmarObaidi_ePortfolio/
+Code Review Video Link: https://drive.google.com/file/d/1gPffHO0Hp5P0YkUqeS_vsaE30XgG8fkE/view?usp=drive_link
